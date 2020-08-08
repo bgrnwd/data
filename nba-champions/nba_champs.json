@@ -1,0 +1,522 @@
+[
+  {
+    "year": 2019,
+    "team": "Toronto Raptors",
+    "players": [
+      {
+        "name": "Kawhi Leonard",
+        "pick": 15
+      },
+      {
+        "name": "Kyle Lowry",
+        "pick": 24
+      },
+      {
+        "name": "Pascal Siakam",
+        "pick": 27
+      },
+      {
+        "name": "Marc Gasol",
+        "pick": 48
+      },
+      {
+        "name": "Danny Green",
+        "pick": 46
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Golden State Warriors",
+    "players": [
+      {
+        "name": "Steph Curry",
+        "pick": 13
+      },
+      {
+        "name": "Klay Thompson",
+        "pick": 11
+      },
+      {
+        "name": "Kevin Durant",
+        "pick": 2
+      },
+      {
+        "name": "Draymond Green",
+        "pick": 35
+      },
+      {
+        "name": "Andre Igoudala",
+        "pick": 9
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Golden State Warriors",
+    "players": [
+      {
+        "name": "Steph Curry",
+        "pick": 13
+      },
+      {
+        "name": "Klay Thompson",
+        "pick": 11
+      },
+      {
+        "name": "Kevin Durant",
+        "pick": 2
+      },
+      {
+        "name": "Draymond Green",
+        "pick": 35
+      },
+      {
+        "name": "Andre Igoudala",
+        "pick": 9
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Cleveland Cavaliers",
+    "players": [
+      {
+        "name": "Lebron James",
+        "pick": 1
+      },
+      {
+        "name": "Kyrie Irving",
+        "pick": 1
+      },
+      {
+        "name": "JR Smith",
+        "pick": 18
+      },
+      {
+        "name": "Kevin Love",
+        "pick": 5
+      },
+      {
+        "name": "Tristan Thompson",
+        "pick": 4
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Golden State Warriors",
+    "players": [
+      {
+        "name": "Steph Curry",
+        "pick": 13
+      },
+      {
+        "name": "Klay Thompson",
+        "pick": 11
+      },
+      {
+        "name": "Harrison Barnes",
+        "pick": 7
+      },
+      {
+        "name": "Draymond Green",
+        "pick": 35
+      },
+      {
+        "name": "Andre Igoudala",
+        "pick": 9
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "San Antonio Spurs",
+    "players": [
+      {
+        "name": "Tim Duncan",
+        "pick": 1
+      },
+      {
+        "name": "Kawhi Leonard",
+        "pick": 15
+      },
+      {
+        "name": "Tony Parker",
+        "pick": 28
+      },
+      {
+        "name": "Boris Diaw",
+        "pick": 21
+      },
+      {
+        "name": "Manu Ginobli",
+        "pick": 57
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Miami Heat",
+    "players": [
+      {
+        "name": "Lebron James",
+        "pick": 1
+      },
+      {
+        "name": "Dwyane Wade",
+        "pick": 5
+      },
+      {
+        "name": "Chris Bosh",
+        "pick": 4
+      },
+      {
+        "name": "Mario Chalmers",
+        "pick": 34
+      },
+      {
+        "name": "Ray Allen",
+        "pick": 5
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Miami Heat",
+    "players": [
+      {
+        "name": "Lebron James",
+        "pick": 1
+      },
+      {
+        "name": "Dwyane Wade",
+        "pick": 5
+      },
+      {
+        "name": "Mario Chalmers",
+        "pick": 34
+      },
+      {
+        "name": "Shane Battier",
+        "pick": 6
+      },
+      {
+        "name": "Udonis Haslem",
+        "pick": 61
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Dallas Mavericks",
+    "players": [
+      {
+        "name": "Dirk Nowitzki",
+        "pick": 9
+      },
+      {
+        "name": "Jason Kidd",
+        "pick": 2
+      },
+      {
+        "name": "Shawn Marion",
+        "pick": 9
+      },
+      {
+        "name": "Jason Terry",
+        "pick": 10
+      },
+      {
+        "name": "Tyson Chandler",
+        "pick": 2
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Los Angeles Lakers",
+    "players": [
+      {
+        "name": "Kobe Bryant",
+        "pick": 13
+      },
+      {
+        "name": "Pau Gasol",
+        "pick": 3
+      },
+      {
+        "name": "Metta World Peace",
+        "pick": 16
+      },
+      {
+        "name": "Derek Fisher",
+        "pick": 24
+      },
+      {
+        "name": "Lamar Odom",
+        "pick": 4
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Los Angeles Lakers",
+    "players": [
+      {
+        "name": "Kobe Bryant",
+        "pick": 13
+      },
+      {
+        "name": "Pau Gasol",
+        "pick": 3
+      },
+      {
+        "name": "Lamar Odom",
+        "pick": 4
+      },
+      {
+        "name": "Trevor Ariza",
+        "pick": 43
+      },
+      {
+        "name": "Derek Fisher",
+        "pick": 24
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Boston Celtics",
+    "players": [
+      {
+        "name": "Paul Pierce",
+        "pick": 10
+      },
+      {
+        "name": "Ray Allen",
+        "pick": 5
+      },
+      {
+        "name": "Kevin Garnett",
+        "pick": 5
+      },
+      {
+        "name": "Rajon Rondo",
+        "pick": 21
+      },
+      {
+        "name": "Kendrick Perkins",
+        "pick": 27
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "San Antonio Spurs",
+    "players": [
+      {
+        "name": "Tony Parker",
+        "pick": 28
+      },
+      {
+        "name": "Tim Duncan",
+        "pick": 1
+      },
+      {
+        "name": "Bruce Bowen",
+        "pick": 61
+      },
+      {
+        "name": "Manu Ginobli",
+        "pick": 57
+      },
+      {
+        "name": "Michael Finley",
+        "pick": 21
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Miami Heat",
+    "players": [
+      {
+        "name": "Dwyane Wade",
+        "pick": 5
+      },
+      {
+        "name": "Antoine Walker",
+        "pick": 6
+      },
+      {
+        "name": "Shaquille O'Neal",
+        "pick": 1
+      },
+      {
+        "name": "Jason Williams",
+        "pick": 7
+      },
+      {
+        "name": "Udonis Haslem",
+        "pick": 61
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "San Antonio Spurs",
+    "players": [
+      {
+        "name": "Tony Parker",
+        "pick": 28
+      },
+      {
+        "name": "Tim Duncan",
+        "pick": 1
+      },
+      {
+        "name": "Bruce Bowen",
+        "pick": 61
+      },
+      {
+        "name": "Manu Ginobli",
+        "pick": 57
+      },
+      {
+        "name": "Robert Horry",
+        "pick": 11
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Detroit Pistons",
+    "players": [
+      {
+        "name": "Ben Wallace",
+        "pick": 61
+      },
+      {
+        "name": "Richard Hamilton",
+        "pick": 7
+      },
+      {
+        "name": "Chauncey Billups",
+        "pick": 3
+      },
+      {
+        "name": "Rasheed Wallace",
+        "pick": 4
+      },
+      {
+        "name": "Tayshaun Prince",
+        "pick": 23
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "San Antonio Spurs",
+    "players": [
+      {
+        "name": "Tim Duncan",
+        "pick": 1
+      },
+      {
+        "name": "Tony Parker",
+        "pick": 28
+      },
+      {
+        "name": "Stephen Jackson",
+        "pick": 42
+      },
+      {
+        "name": "Bruce Bowen",
+        "pick": 61
+      },
+      {
+        "name": "Manu Ginobli",
+        "pick": 57
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Los Angeles Lakers",
+    "players": [
+      {
+        "name": "Kobe Bryant",
+        "pick": 13
+      },
+      {
+        "name": "Shaquille O'Neal",
+        "pick": 1
+      },
+      {
+        "name": "Robert Horry",
+        "pick": 11
+      },
+      {
+        "name": "Rick Fox",
+        "pick": 24
+      },
+      {
+        "name": "Derek Fisher",
+        "pick": 24
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Los Angeles Lakers",
+    "players": [
+      {
+        "name": "Kobe Bryant",
+        "pick": 13
+      },
+      {
+        "name": "Shaquille O'Neal",
+        "pick": 1
+      },
+      {
+        "name": "Derek Fisher",
+        "pick": 24
+      },
+      {
+        "name": "Rick Fox",
+        "pick": 24
+      },
+      {
+        "name": "Horace Grant",
+        "pick": 10
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Los Angeles Lakers",
+    "players": [
+      {
+        "name": "Shaquille O'Neal",
+        "pick": 1
+      },
+      {
+        "name": "Kobe Bryant",
+        "pick": 13
+      },
+      {
+        "name": "Glen Rice",
+        "pick": 4
+      },
+      {
+        "name": "Ron Harper",
+        "pick": 8
+      },
+      {
+        "name": "Robert Horry",
+        "pick": 11
+      }
+    ]
+  }
+]
