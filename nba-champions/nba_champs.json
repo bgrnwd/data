@@ -1,5 +1,31 @@
 [
   {
+    "year": 2020,
+    "team": "Los Angeles Lakers",
+    "players": [
+      {
+        "name": "Lebron James",
+        "pick": 1
+      },
+      {
+        "name": "Anthony Davis",
+        "pick": 1
+      },
+      {
+        "name": "Kentavious Caldwell-Pope",
+        "pick": 8
+      },
+      {
+        "name": "Danny Green",
+        "pick": 46
+      },
+      {
+        "name": "Alex Caruso",
+        "pick": 61
+      }
+    ]
+  },
+  {
     "year": 2019,
     "team": "Toronto Raptors",
     "players": [
